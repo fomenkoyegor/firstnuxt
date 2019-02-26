@@ -1,5 +1,7 @@
 # testnuxt
 
+<a href='https://fomafirstnuxt.herokuapp.com/'>view</a>
+
 > Nuxt.js project
 
 ## Build Setup
